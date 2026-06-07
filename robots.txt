@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://proziadpro.netlify.app/sitemap.xml
+Sitemap: https://prozikopro.netlify.app/sitemap.xml
